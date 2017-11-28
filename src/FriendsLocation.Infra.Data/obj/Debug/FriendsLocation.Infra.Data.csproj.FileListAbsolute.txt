@@ -1,0 +1,7 @@
+c:\users\alexa\documents\visual studio 2017\Projects\FriendsLocation\src\FriendsLocation.Infra.Data\bin\Debug\FriendsLocation.Infra.Data.dll
+c:\users\alexa\documents\visual studio 2017\Projects\FriendsLocation\src\FriendsLocation.Infra.Data\bin\Debug\FriendsLocation.Infra.Data.pdb
+c:\users\alexa\documents\visual studio 2017\Projects\FriendsLocation\src\FriendsLocation.Infra.Data\bin\Debug\FriendsLocation.Domain.dll
+c:\users\alexa\documents\visual studio 2017\Projects\FriendsLocation\src\FriendsLocation.Infra.Data\bin\Debug\FriendsLocation.Domain.pdb
+c:\users\alexa\documents\visual studio 2017\Projects\FriendsLocation\src\FriendsLocation.Infra.Data\obj\Debug\FriendsLocation.Infra.Data.csprojResolveAssemblyReference.cache
+c:\users\alexa\documents\visual studio 2017\Projects\FriendsLocation\src\FriendsLocation.Infra.Data\obj\Debug\FriendsLocation.Infra.Data.dll
+c:\users\alexa\documents\visual studio 2017\Projects\FriendsLocation\src\FriendsLocation.Infra.Data\obj\Debug\FriendsLocation.Infra.Data.pdb

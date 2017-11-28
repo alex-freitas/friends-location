@@ -1,0 +1,5 @@
+c:\users\alexa\documents\visual studio 2017\Projects\FriendsLocation\src\FriendsLocation.Domain\bin\Debug\FriendsLocation.Domain.dll
+c:\users\alexa\documents\visual studio 2017\Projects\FriendsLocation\src\FriendsLocation.Domain\bin\Debug\FriendsLocation.Domain.pdb
+c:\users\alexa\documents\visual studio 2017\Projects\FriendsLocation\src\FriendsLocation.Domain\obj\Debug\FriendsLocation.Domain.csprojResolveAssemblyReference.cache
+c:\users\alexa\documents\visual studio 2017\Projects\FriendsLocation\src\FriendsLocation.Domain\obj\Debug\FriendsLocation.Domain.dll
+c:\users\alexa\documents\visual studio 2017\Projects\FriendsLocation\src\FriendsLocation.Domain\obj\Debug\FriendsLocation.Domain.pdb

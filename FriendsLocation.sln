@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0 -Tests", "0 -Tests", "{BE4C7F6E-A505-4233-A95D-B784E82B6ED9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - UI", "1 - UI", "{59DCB10B-A976-4FDA-9B3F-2AE10A152BD0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - App", "2 - App", "{D8C11BCC-9D65-4003-A284-363B3E1D6451}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Domain", "3 - Domain", "{20AEA13E-0ACF-4C99-A395-12F912872C7C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Infra", "4 - Infra", "{8B00661A-2C26-47ED-A8E7-F3C88801ADFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FriendsLocation.Domain", "src\FriendsLocation.Domain\FriendsLocation.Domain.csproj", "{C3813330-0AA6-49C0-BDCE-503DFE61FC83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FriendsLocation.App", "src\FriendsLocation.App\FriendsLocation.App.csproj", "{B3E12D48-8BB4-490F-A4F8-D21313E65070}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FriendsLocation.Infra.Data", "src\FriendsLocation.Infra.Data\FriendsLocation.Infra.Data.csproj", "{997D2192-4B36-4E9A-847B-3B37B8F6A104}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FriendsLocation.App.Tests", "tests\FriendsLocation.App.Tests\FriendsLocation.App.Tests.csproj", "{B2D30EAB-F810-48EF-AE23-B98626479D5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FriendsLocation.UI.ConsoleApp", "src\FriendsLocation.UI.ConsoleApp\FriendsLocation.UI.ConsoleApp.csproj", "{E035621B-111F-4A5C-8521-B88A3E87EEFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3813330-0AA6-49C0-BDCE-503DFE61FC83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3813330-0AA6-49C0-BDCE-503DFE61FC83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3813330-0AA6-49C0-BDCE-503DFE61FC83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3813330-0AA6-49C0-BDCE-503DFE61FC83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3E12D48-8BB4-490F-A4F8-D21313E65070}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3E12D48-8BB4-490F-A4F8-D21313E65070}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3E12D48-8BB4-490F-A4F8-D21313E65070}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3E12D48-8BB4-490F-A4F8-D21313E65070}.Release|Any CPU.Build.0 = Release|Any CPU
+		{997D2192-4B36-4E9A-847B-3B37B8F6A104}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{997D2192-4B36-4E9A-847B-3B37B8F6A104}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{997D2192-4B36-4E9A-847B-3B37B8F6A104}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{997D2192-4B36-4E9A-847B-3B37B8F6A104}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2D30EAB-F810-48EF-AE23-B98626479D5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2D30EAB-F810-48EF-AE23-B98626479D5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2D30EAB-F810-48EF-AE23-B98626479D5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2D30EAB-F810-48EF-AE23-B98626479D5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E035621B-111F-4A5C-8521-B88A3E87EEFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E035621B-111F-4A5C-8521-B88A3E87EEFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E035621B-111F-4A5C-8521-B88A3E87EEFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E035621B-111F-4A5C-8521-B88A3E87EEFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C3813330-0AA6-49C0-BDCE-503DFE61FC83} = {20AEA13E-0ACF-4C99-A395-12F912872C7C}
+		{B3E12D48-8BB4-490F-A4F8-D21313E65070} = {D8C11BCC-9D65-4003-A284-363B3E1D6451}
+		{997D2192-4B36-4E9A-847B-3B37B8F6A104} = {8B00661A-2C26-47ED-A8E7-F3C88801ADFF}
+		{B2D30EAB-F810-48EF-AE23-B98626479D5C} = {BE4C7F6E-A505-4233-A95D-B784E82B6ED9}
+		{E035621B-111F-4A5C-8521-B88A3E87EEFE} = {59DCB10B-A976-4FDA-9B3F-2AE10A152BD0}
+	EndGlobalSection
+EndGlobal

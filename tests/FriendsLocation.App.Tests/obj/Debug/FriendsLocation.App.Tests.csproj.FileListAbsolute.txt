@@ -1,0 +1,16 @@
+C:\Users\alexa\Documents\Visual Studio 2017\Projects\FriendsLocation\tests\FriendsLocation.App.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\alexa\Documents\Visual Studio 2017\Projects\FriendsLocation\tests\FriendsLocation.App.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\alexa\Documents\Visual Studio 2017\Projects\FriendsLocation\tests\FriendsLocation.App.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\alexa\Documents\Visual Studio 2017\Projects\FriendsLocation\tests\FriendsLocation.App.Tests\bin\Debug\FriendsLocation.App.Tests.dll
+C:\Users\alexa\Documents\Visual Studio 2017\Projects\FriendsLocation\tests\FriendsLocation.App.Tests\bin\Debug\FriendsLocation.App.Tests.pdb
+C:\Users\alexa\Documents\Visual Studio 2017\Projects\FriendsLocation\tests\FriendsLocation.App.Tests\bin\Debug\FriendsLocation.App.dll
+C:\Users\alexa\Documents\Visual Studio 2017\Projects\FriendsLocation\tests\FriendsLocation.App.Tests\bin\Debug\FriendsLocation.Domain.dll
+C:\Users\alexa\Documents\Visual Studio 2017\Projects\FriendsLocation\tests\FriendsLocation.App.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\alexa\Documents\Visual Studio 2017\Projects\FriendsLocation\tests\FriendsLocation.App.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\alexa\Documents\Visual Studio 2017\Projects\FriendsLocation\tests\FriendsLocation.App.Tests\bin\Debug\FriendsLocation.App.pdb
+C:\Users\alexa\Documents\Visual Studio 2017\Projects\FriendsLocation\tests\FriendsLocation.App.Tests\bin\Debug\FriendsLocation.Domain.pdb
+C:\Users\alexa\Documents\Visual Studio 2017\Projects\FriendsLocation\tests\FriendsLocation.App.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\alexa\Documents\Visual Studio 2017\Projects\FriendsLocation\tests\FriendsLocation.App.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\alexa\Documents\Visual Studio 2017\Projects\FriendsLocation\tests\FriendsLocation.App.Tests\obj\Debug\FriendsLocation.App.Tests.csprojResolveAssemblyReference.cache
+C:\Users\alexa\Documents\Visual Studio 2017\Projects\FriendsLocation\tests\FriendsLocation.App.Tests\obj\Debug\FriendsLocation.App.Tests.dll
+C:\Users\alexa\Documents\Visual Studio 2017\Projects\FriendsLocation\tests\FriendsLocation.App.Tests\obj\Debug\FriendsLocation.App.Tests.pdb

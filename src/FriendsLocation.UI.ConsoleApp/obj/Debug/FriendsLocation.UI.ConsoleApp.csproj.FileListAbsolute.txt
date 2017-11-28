@@ -1,0 +1,10 @@
+c:\users\alexa\documents\visual studio 2017\Projects\FriendsLocation\src\FriendsLocation.UI.ConsoleApp\bin\Debug\FriendsLocation.UI.ConsoleApp.exe.config
+c:\users\alexa\documents\visual studio 2017\Projects\FriendsLocation\src\FriendsLocation.UI.ConsoleApp\bin\Debug\FriendsLocation.UI.ConsoleApp.exe
+c:\users\alexa\documents\visual studio 2017\Projects\FriendsLocation\src\FriendsLocation.UI.ConsoleApp\bin\Debug\FriendsLocation.UI.ConsoleApp.pdb
+c:\users\alexa\documents\visual studio 2017\Projects\FriendsLocation\src\FriendsLocation.UI.ConsoleApp\bin\Debug\FriendsLocation.App.dll
+c:\users\alexa\documents\visual studio 2017\Projects\FriendsLocation\src\FriendsLocation.UI.ConsoleApp\bin\Debug\FriendsLocation.Domain.dll
+c:\users\alexa\documents\visual studio 2017\Projects\FriendsLocation\src\FriendsLocation.UI.ConsoleApp\bin\Debug\FriendsLocation.App.pdb
+c:\users\alexa\documents\visual studio 2017\Projects\FriendsLocation\src\FriendsLocation.UI.ConsoleApp\bin\Debug\FriendsLocation.Domain.pdb
+c:\users\alexa\documents\visual studio 2017\Projects\FriendsLocation\src\FriendsLocation.UI.ConsoleApp\obj\Debug\FriendsLocation.UI.ConsoleApp.csprojResolveAssemblyReference.cache
+c:\users\alexa\documents\visual studio 2017\Projects\FriendsLocation\src\FriendsLocation.UI.ConsoleApp\obj\Debug\FriendsLocation.UI.ConsoleApp.exe
+c:\users\alexa\documents\visual studio 2017\Projects\FriendsLocation\src\FriendsLocation.UI.ConsoleApp\obj\Debug\FriendsLocation.UI.ConsoleApp.pdb
